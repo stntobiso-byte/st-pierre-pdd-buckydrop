@@ -1,0 +1,13 @@
+{
+  "name": "st-pierre-pdd-buckydrop",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
